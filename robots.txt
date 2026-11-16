@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://jakeleekr13-otter.github.io/underblue-support/sitemap.xml
+Sitemap: https://jakeleekr13-otter.github.io/sitemap.xml
